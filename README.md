@@ -12,4 +12,7 @@ USE LibraryDB;
 
 ### Table Creation
 
-#### Table Crea
+#### Books Table
+
+-Stores information about each book.
+-Fields: BookID, Title, ISBN, Publisher, YearPublished, Genre, CopiesAvailable.
