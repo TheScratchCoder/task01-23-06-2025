@@ -17,7 +17,7 @@ USE LibraryDB;
 -Stores information about each book. <br>
 -Fields: BookID, Title, ISBN, Publisher, YearPublished, Genre, CopiesAvailable.
 
-<code>
+```
 CREATE TABLE Books (
     BookID INT PRIMARY KEY AUTO_INCREMENT,
     Title VARCHAR(255) NOT NULL,
@@ -27,4 +27,4 @@ CREATE TABLE Books (
     Genre VARCHAR(50),
     CopiesAvailable INT DEFAULT 0
 );
-</code>
+```
