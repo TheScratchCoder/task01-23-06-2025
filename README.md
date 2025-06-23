@@ -9,3 +9,5 @@ Using MySQL WORKBENCH , I have worked on database creation, table creation, and 
 CREATE DATABASE LibraryDB;
 USE LibraryDB;
 ```
+
+### Table Creation
