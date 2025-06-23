@@ -14,5 +14,5 @@ USE LibraryDB;
 
 #### Books Table
 
--Stores information about each book. <code>.tsx
+-Stores information about each book. <br>
 -Fields: BookID, Title, ISBN, Publisher, YearPublished, Genre, CopiesAvailable.
