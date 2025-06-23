@@ -6,8 +6,8 @@ Using MySQL WORKBENCH , I have worked on database creation, table creation, and 
 ### Database Creation
 
 ```
-CREATE DATABASE LibraryDB;
-USE LibraryDB;
+CREATE DATABASE Library;
+USE Library;
 ```
 
 ### Table Creation
